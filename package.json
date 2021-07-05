@@ -1,0 +1,17 @@
+{
+  "name": "fsm_s3-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "s3": "^4.4.0"
+  },
+  "resolutions": {
+    "graceful-fs": "4.x.x"
+  }
+}
